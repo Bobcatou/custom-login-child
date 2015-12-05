@@ -5,8 +5,8 @@
 /* Change background color and font family */
 /*********************
 body {
-  background: #f8fafa;
-  font-family: Arial,Verdana,sans-serif;
+  background: #;
+  font-family: 
 }
 *********************/ 
 /* Change Width and Height of Logo Image + Add Custom Image File */
@@ -14,29 +14,29 @@ body {
 
 .login h1 a {
   background-image: url(logo.png);
-  width: 213px;
-  height: 97px;
-  background-size: 213px 97px;
+  width: px;
+  height: px;
+  background-size: Widthpx Heightpx;
 }
 *********************/ 
 /* Other changes to the color and style of form itself */
 /*******************
 .login label {
-  color: #454545;
+  color: #;
   display: block;
-  margin-bottom: 1em;
-  font-weight: bold;
+  margin-bottom:  em;
+  font-weight: ;
 }
  
 .login form .input {
-  font-weight: normal;
+  font-weight: ;
 }
  
 .login #backtoblog a, .login #nav a {
-  color: #4da28f;
+  color: #;
 }
  
 .wp-core-ui .button-primary {
-  background: #4da28f;
+  background: #;
 }
 *********************/
