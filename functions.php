@@ -14,7 +14,7 @@ function my_loginlogo() {
 add_action('login_head', 'my_loginlogo');
 
 function my_loginURLtext() {
-    return 'Plan Curtail';
+    return 'YOUR-WEBSITE-NAME';
 }
 add_filter('login_headertitle', 'my_loginURLtext');
 
