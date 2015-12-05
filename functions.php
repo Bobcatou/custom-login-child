@@ -19,6 +19,17 @@ function my_loginURLtext() {
 add_filter('login_headertitle', 'my_loginURLtext');
 
 /**
+*URL for custom logo
+**/
+function my_loginURL() {
+    return 'YOUR-SITE-URL-GOES-HERE';
+}
+add_filter('login_headerurl', 'my_loginURL');
+
+
+
+
+/**
 *Enquere Login Custom Stylesheet
 **/
 function my_logincustomCSSfile() {
