@@ -4,12 +4,16 @@
 
 /* Change background color and font family */
 /*********************
+
 body {
   background: #;
   font-family: 
 }
+
 *********************/ 
+
 /* Change Width and Height of Logo Image + Add Custom Image File */
+
 /*******************
 
 .login h1 a {
@@ -20,12 +24,18 @@ body {
 }
 
 ******************/
+
 /* Changes input box and can be used to match Logo size */
+/*
 #login {
   width: 
+*/
 }
+
 *********************/ 
+
 /* Other changes to the color and style of form itself */
+
 /*******************
 .login label {
   color: #;
